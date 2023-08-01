@@ -1,5 +1,5 @@
 title: The Cyber Monk
 description: Your Guardian in The Digital Realm
 show_downloads: 
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-hacker
